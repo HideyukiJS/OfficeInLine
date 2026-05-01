@@ -1,3 +1,3 @@
-# ciberwiki
-Static website deployed with GitHub Pages
+# Official Repo of OfficeInLine
+
 https://hideyukijs.github.io/ciberwiki/
