@@ -1,3 +1,3 @@
 # Official Repo of OfficeInLine
 
-https://hideyukijs.github.io/ciberwiki/
+https://hideyukijs.github.io/OfficeInLine/
